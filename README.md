@@ -20,7 +20,7 @@ A Tableau dashboard built to analyze retail sales performance and business growt
 - Interactive KPI dashboard
 
 #### Dashboard Link
-🔗 [View Retail Sales Dashboard](https://public.tableau.com/views/Retail_Sales_Dashboard_17797914734100/E-CommerceRevenueIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [Open Dashboard](https://public.tableau.com/views/Retail_Sales_Dashboard_17797914734100/E-CommerceRevenueIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -37,7 +37,7 @@ A marketing analytics dashboard developed using Google Analytics data to evaluat
 - Geographic and device insights
 
 #### Dashboard Link
-🔗 [Viw Marketing Funnel Dashboard](https://public.tableau.com/views/Marketing_Funnel_Conversion_Analysis/MarketingFunnelConversionPerformanceAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [Open Dashboard](https://public.tableau.com/views/Marketing_Funnel_Conversion_Analysis/MarketingFunnelConversionPerformanceAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -84,6 +84,6 @@ FUTURE_DS_01
 
 **Sooraj Kottamasu**
 
-B.Tech – Computer Science Engineering
+B.Tech – Computer Science & Engineering
 
 Future Interns Data Science & Analytics Intern
